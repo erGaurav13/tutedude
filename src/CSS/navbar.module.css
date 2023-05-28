@@ -8,6 +8,7 @@ justify-content: space-between;
 position: sticky;
 top: 0px;
 left: 0px;
+z-index: +2;
 }
 
 #logo{
@@ -32,6 +33,7 @@ left: 0px;
      font-weight: 500;
      font-size: 18px;
      line-height: 123.5%;
+     cursor: pointer;
 }
 
 #nav_link li:first-child,#nav_link li:nth-child(2){
